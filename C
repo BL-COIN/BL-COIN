@@ -1,0 +1,212 @@
+
+  private void btnClear_Click(object sender, EventArgs e)
+  {
+
+foreach (Control cl in this.Controls )
+{
+ if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ 
+ }
+ else if (cl is TextBox)
+ {
+  TextBox tb = cl as TextBox;
+  tb.Text = string.Empty;
+ }
+}
+ 
+foreach (Control cl in panel1.Controls)
+{
+ if (cl is TextBox)
+ {
+  cl.Text = string.Empty;  
+ }
+ else if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ }
+}
+  }  private void btnClear_Click(object sender, EventArgs e)
+  {
+
+foreach (Control cl in this.Controls )
+{
+ if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ 
+ }
+ else if (cl is TextBox)
+ {
+  TextBox tb = cl as TextBox;
+  tb.Text = string.Empty;
+ }
+}
+ 
+foreach (Control cl in panel1.Controls)
+{
+ if (cl is TextBox)
+ {
+  cl.Text = string.Empty;  
+ }
+ else if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ }
+}
+  }  private void btnClear_Click(object sender, EventArgs e)
+  {
+
+foreach (Control cl in this.Controls )
+{
+ if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ 
+ }
+ else if (cl is TextBox)
+ {
+  TextBox tb = cl as TextBox;
+  tb.Text = string.Empty;
+ }
+}
+ 
+foreach (Control cl in panel1.Controls)
+{
+ if (cl is TextBox)
+ {
+  cl.Text = string.Empty;  
+ }
+ else if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ }
+}
+  }  private void btnClear_Click(object sender, EventArgs e)
+  {
+
+foreach (Control cl in this.Controls )
+{
+ if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ 
+ }
+ else if (cl is TextBox)
+ {
+  TextBox tb = cl as TextBox;
+  tb.Text = string.Empty;
+ }
+}
+ 
+foreach (Control cl in panel1.Controls)
+{
+ if (cl is TextBox)
+ {
+  cl.Text = string.Empty;  
+ }
+ else if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ }
+}
+  }  private void btnClear_Click(object sender, EventArgs e)
+  {
+
+foreach (Control cl in this.Controls )
+{
+ if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ 
+ }
+ else if (cl is TextBox)
+ {
+  TextBox tb = cl as TextBox;
+  tb.Text = string.Empty;
+ }
+}
+ 
+foreach (Control cl in panel1.Controls)
+{
+ if (cl is TextBox)
+ {
+  cl.Text = string.Empty;  
+ }
+ else if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ }
+}
+  }  private void btnClear_Click(object sender, EventArgs e)
+  {
+
+foreach (Control cl in this.Controls )
+{
+ if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ 
+ }
+ else if (cl is TextBox)
+ {
+  TextBox tb = cl as TextBox;
+  tb.Text = string.Empty;
+ }
+}
+ 
+foreach (Control cl in panel1.Controls)
+{
+ if (cl is TextBox)
+ {
+  cl.Text = string.Empty;  
+ }
+ else if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ }
+}
+  }  private void btnClear_Click(object sender, EventArgs e)
+  {
+
+foreach (Control cl in this.Controls )
+{
+ if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ 
+ }
+ else if (cl is TextBox)
+ {
+  TextBox tb = cl as TextBox;
+  tb.Text = string.Empty;
+ }
+}
+ 
+foreach (Control cl in panel1.Controls)
+{
+ if (cl is TextBox)
+ {
+  cl.Text = string.Empty;  
+ }
+ else if (cl is ComboBox)
+ {
+  ComboBox cob = cl as ComboBox;
+  cob.SelectedIndex = -1;
+ }
+}
+  }
