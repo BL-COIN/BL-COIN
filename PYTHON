@@ -1,0 +1,209 @@
+# coding=utf-8
+import MySQLdb
+import sys
+ 
+host = 'localhost'
+user = 'root'
+password  = '123456'   
+db   = 'test'
+ 
+ 
+if __name__ == '__main__':
+    connection = MySQLdb.connect(host,user,password,db);
+    try:
+        connection.ping()
+    except:
+        print ('failed to connect MySQL.')
+    sql = 'select * from test'
+    cursor = connection.cursor()
+    cursor.execute(sql)
+    for row in cursor:
+        print ("|" + str(row[0]) + "|" + row[1] + "|")
+    cursor.close()
+    connection.close()
+    sys.exit()
+    # coding=utf-8
+import MySQLdb
+import sys
+ 
+host = 'localhost'
+user = 'root'
+password  = '123456'   
+db   = 'test'
+ 
+ 
+if __name__ == '__main__':
+    connection = MySQLdb.connect(host,user,password,db);
+    try:
+        connection.ping()
+    except:
+        print ('failed to connect MySQL.')
+    sql = 'select * from test'
+    cursor = connection.cursor()
+    cursor.execute(sql)
+    for row in cursor:
+        print ("|" + str(row[0]) + "|" + row[1] + "|")
+    cursor.close()
+    connection.close()
+    sys.exit()# coding=utf-8
+import MySQLdb
+import sys
+ 
+host = 'localhost'
+user = 'root'
+password  = '123456'   
+db   = 'test'
+ 
+ 
+if __name__ == '__main__':
+    connection = MySQLdb.connect(host,user,password,db);
+    try:
+        connection.ping()
+    except:
+        print ('failed to connect MySQL.')
+    sql = 'select * from test'
+    cursor = connection.cursor()
+    cursor.execute(sql)
+    for row in cursor:
+        print ("|" + str(row[0]) + "|" + row[1] + "|")
+    cursor.close()
+    connection.close()
+    sys.exit()# coding=utf-8
+import MySQLdb
+import sys
+ 
+host = 'localhost'
+user = 'root'
+password  = '123456'   
+db   = 'test'
+ 
+ 
+if __name__ == '__main__':
+    connection = MySQLdb.connect(host,user,password,db);
+    try:
+        connection.ping()
+    except:
+        print ('failed to connect MySQL.')
+    sql = 'select * from test'
+    cursor = connection.cursor()
+    cursor.execute(sql)
+    for row in cursor:
+        print ("|" + str(row[0]) + "|" + row[1] + "|")
+    cursor.close()
+    connection.close()
+    sys.exit()# coding=utf-8
+import MySQLdb
+import sys
+ 
+host = 'localhost'
+user = 'root'
+password  = '123456'   
+db   = 'test'
+ 
+ 
+if __name__ == '__main__':
+    connection = MySQLdb.connect(host,user,password,db);
+    try:
+        connection.ping()
+    except:
+        print ('failed to connect MySQL.')
+    sql = 'select * from test'
+    cursor = connection.cursor()
+    cursor.execute(sql)
+    for row in cursor:
+        print ("|" + str(row[0]) + "|" + row[1] + "|")
+    cursor.close()
+    connection.close()
+    sys.exit()# coding=utf-8
+import MySQLdb
+import sys
+ 
+host = 'localhost'
+user = 'root'
+password  = '123456'   
+db   = 'test'
+ 
+ 
+if __name__ == '__main__':
+    connection = MySQLdb.connect(host,user,password,db);
+    try:
+        connection.ping()
+    except:
+        print ('failed to connect MySQL.')
+    sql = 'select * from test'
+    cursor = connection.cursor()
+    cursor.execute(sql)
+    for row in cursor:
+        print ("|" + str(row[0]) + "|" + row[1] + "|")
+    cursor.close()
+    connection.close()
+    sys.exit()# coding=utf-8
+import MySQLdb
+import sys
+ 
+host = 'localhost'
+user = 'root'
+password  = '123456'   
+db   = 'test'
+ 
+ 
+if __name__ == '__main__':
+    connection = MySQLdb.connect(host,user,password,db);
+    try:
+        connection.ping()
+    except:
+        print ('failed to connect MySQL.')
+    sql = 'select * from test'
+    cursor = connection.cursor()
+    cursor.execute(sql)
+    for row in cursor:
+        print ("|" + str(row[0]) + "|" + row[1] + "|")
+    cursor.close()
+    connection.close()
+    sys.exit()# coding=utf-8
+import MySQLdb
+import sys
+ 
+host = 'localhost'
+user = 'root'
+password  = '123456'   
+db   = 'test'
+ 
+ 
+if __name__ == '__main__':
+    connection = MySQLdb.connect(host,user,password,db);
+    try:
+        connection.ping()
+    except:
+        print ('failed to connect MySQL.')
+    sql = 'select * from test'
+    cursor = connection.cursor()
+    cursor.execute(sql)
+    for row in cursor:
+        print ("|" + str(row[0]) + "|" + row[1] + "|")
+    cursor.close()
+    connection.close()
+    sys.exit()# coding=utf-8
+import MySQLdb
+import sys
+ 
+host = 'localhost'
+user = 'root'
+password  = '123456'   
+db   = 'test'
+ 
+ 
+if __name__ == '__main__':
+    connection = MySQLdb.connect(host,user,password,db);
+    try:
+        connection.ping()
+    except:
+        print ('failed to connect MySQL.')
+    sql = 'select * from test'
+    cursor = connection.cursor()
+    cursor.execute(sql)
+    for row in cursor:
+        print ("|" + str(row[0]) + "|" + row[1] + "|")
+    cursor.close()
+    connection.close()
+    sys.exit()
